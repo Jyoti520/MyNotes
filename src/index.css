@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+
+body{
+    @apply font-mono outline-none;
+    scroll-behavior: smooth;
+}
+body::-webkit-scrollbar{
+    display: none;
+}
