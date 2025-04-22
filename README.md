@@ -1,12 +1,21 @@
-# React + Vite
+#  📝 My Note App
+Developed a Notes Application using React, allowing users to create, update, search, and filter notes with ease. Utilized local storage to ensure notes persist across page reloads, providing a seamless experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features:
+-Enabled users to create, edit, and delete notes, ensuring efficient task management.
 
-Currently, two official plugins are available:
+-Implemented search and filtering by checkbox to help users organize and quickly find notes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Integrated local storage to persist notes, ensuring data remains available even after page refreshes.
 
-## Expanding the ESLint configuration
+## Technologies Used:
+- **React**
+- **React Router**
+- **TailwindCSS**
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation:
+
+ Clone this repository to your local machine:
+   ```bash
+
+  git clone https://github.com/Jyoti520/MyNotes.git
